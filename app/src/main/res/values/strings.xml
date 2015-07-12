@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spotify Streamer</string>
+    <string name="artist">Artist</string>
+    <string name="error">Error obtaining data: %s</string>
+    <string name="artist_id_error">Unable to obtain artist id</string>
+    <string name="spotify_error_format">Spotify error: %s</string>
+    <string name="id_notfound">Error obtaining id, aborting</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="artist_list_error">Error building artists list</string>
+    <string name="debug_result_clicked" formatted="false">Record clicked:\n%s\n%s</string>
+    <string name="no_top_tracks">Could not find top tracks</string>
+    <string name="no_artists_found">Could not find any artists</string>
+    <string name="clean_launch_text">Search for an artist by clicking the search button above</string>
+</resources>
